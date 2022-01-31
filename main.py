@@ -3,6 +3,11 @@
 使用github actions 定时执行
 @author : stark
 """
+
+
+# code: UTF-8
+
+
 import requests,os
 from sys import argv
 
